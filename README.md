@@ -9,7 +9,7 @@ em períodos de 25 minutos separados por breves intervalos.
 
 Aplicação Front-end construida na aula do 'Thi Code' - https://www.youtube.com/watch?v=_Z7fyBsZGy8
 
-## https://pomodoro-n.netlify.app/
+#### https://pomodoro-n.netlify.app/
 
 ## Tecnologias utilizadas
 
