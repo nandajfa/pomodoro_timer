@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+input{
+	width: 150px !important;
+	height: 150px !important;
+	font-size: 50pt !important;
+	text-align: center !important;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button{
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+
+input[type="number"]{
+	-moz-webkit-appearance: none;
+}
+
+.time{
+	color: #fff;
+	text-align: center;
+	width: 20rem;
+	height: 20rem;
+	border-radius: 10rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+}
+
+h2{
+	font-size: 90pt;
+}
+
+#timer{
+	display: none !important;
+}
