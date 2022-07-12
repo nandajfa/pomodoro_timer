@@ -15,7 +15,7 @@ Aplicação Front-end construida na aula do 'Thi Code' - https://www.youtube.com
 
 - HTML / CSS / JS / Bootstrap
 
-## Autor
+## Author
 
 Jessica Fernanda Alves Marques
 
