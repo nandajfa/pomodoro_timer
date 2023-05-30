@@ -17,4 +17,4 @@ Aplicação Front-end construida na aula do 'Thi Code' - https://www.youtube.com
 
 ## Author
 
-Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-106651205)
+Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-programadora/)
